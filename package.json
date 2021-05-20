@@ -1,0 +1,17 @@
+{
+  "name": "4.1-clima-console",
+  "version": "1.0.0",
+  "description": "Aplicacion de consola sobre el clima",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^9.0.2",
+    "inquirer": "^8.0.0"
+  }
+}
